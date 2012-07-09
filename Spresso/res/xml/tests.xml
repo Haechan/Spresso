@@ -1,0 +1,3561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<cafedata>
+	<cafe>
+		<index value="0"></index>
+		<section>9</section>
+		<consent>false</consent>
+		<wifi>true</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>아메리카노</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>바닐라라떼</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>카라멜모카</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>카라멜마끼아또</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>화이트모카</item>
+					<item>3000</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>그린티라떼</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>핫초코</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>녹차</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>유자차</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>아이스티</item>
+					<item>2000</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>추억의도시락</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>햄치즈샌드위치</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>햄치즈샌드위치with아메리카노</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>오트밀샌드위치</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>꼬들라면</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>라곱냄비</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>떡/만두/치즈라면</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>공기밥</item>
+					<item>500</item>
+				</array>
+				<array>
+					<item>김밥</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>꼬치어묵</item>
+					<item>500</item>
+				</array>
+				<array>
+					<item>떡볶이</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>누룽지 앤 계란후라이(오전10시반이전만)</item>
+					<item>2000</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>09:00:00</item>
+				<item>19:00:00</item>
+			</array>
+			<array name="fri">
+				<item>09:00:00</item>
+				<item>19:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.450233997404332</item>
+			<item>126.9525200128555</item>
+		</coordinate>
+		<string name="location">신공학관(301동) 지하 1층</string>
+		<string name="name">301동 TOOGOOD</string>
+		<string name="phone">02-872-6902</string>
+		<string name="note"></string>
+		<string name="wifilist">KT, SNUWireless</string>
+		<string name="dclist"></string>
+		<string name="etcnote"></string>
+	</cafe>
+	<cafe>
+		<index value="1"></index>
+		<section>4</section>
+		<consent>true</consent>
+		<wifi>false</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>아메리카노</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>카라멜모카</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>카라멜마끼아또</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>화이트모카</item>
+					<item>3000</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>그린티라떼</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>핫초코</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>차이라떼</item>
+					<item>2800</item>
+				</array>
+				<array>
+					<item>우유</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>아이스티</item>
+					<item>2000</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>햄피즈호박샌드위치with아메리카노</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>햄치즈샌드위치</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>햄치즈샌드위치with아메리카노</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>햄치즈호박샌드위치</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>햄치즈야채샌드위치with아메리카노</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>햄치즈야채샌드위치</item>
+					<item>2500</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>11:00:00</item>
+				<item>18:30:00</item>
+			</array>
+			<array name="fri">
+				<item>11:00:00</item>
+				<item>14:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.460684000000001</item>
+			<item>126.95571700000001</item>
+		</coordinate>
+		<string name="location">제4식당(76동) 2층</string>
+		<string name="name">사범대 TOOGOOD</string>
+		<string name="phone">02-2149-6245</string>
+		<string name="note"></string>
+		<string name="wifilist"></string>
+		<string name="dclist"></string>
+		<string name="etcnote"></string>
+	</cafe>
+	<cafe>
+		<index value="2"></index>
+		<section>2</section>
+		<consent>true</consent>
+		<wifi>true</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+                <array>
+					<item>판코커피</item>
+					<item>1000</item>
+				</array>
+                <array>
+					<item>에스프레소</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>아메리카노</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>2000</item>
+				</array>
+                <array>
+					<item>카푸치노</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>카라멜라떼</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>판코치노</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>아포가또</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>히말라야커피</item>
+					<item>5500</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>우유</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>아이스티</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>쥬스(포도/오렌지)</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>핫초코</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>밀크티</item>
+					<item>2000</item>
+				</array>
+                <array>
+					<item>카라멜고구마라떼</item>
+					<item>2500</item>
+				</array>
+                <array>
+					<item>그린티라떼</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>아이스그린티라떼</item>
+					<item>2500</item>
+				</array>
+                <array>
+					<item>스무디(딸기/키위)</item>
+					<item>3000</item>
+				</array>
+                <array>
+					<item>녹차/홍차</item>
+					<item>1500</item>                    
+				</array>
+                <array>
+					<item>허브티(카모마일/라벤더/스트로베리/페퍼민트/로즈마리)</item>
+					<item>1500</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>판코샌드위치</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>베이글크림치즈</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>베이글샌드위치</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>에그샌드위치</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>웰빙참치샌드위치</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>그릴드치킨샌드위치</item>
+					<item>2700</item>
+				</array>
+				<array>
+					<item>쿠키</item>
+					<item>900</item>
+				</array>
+				<array>
+					<item>스콘(플레인/시나몬)</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>프레즐</item>
+					<item>2000</item>
+				</array>
+                <array>
+					<item>위캔쿠키</item>
+					<item>3100</item>
+				</array>
+				<array>
+					<item>팟파이</item>
+					<item>3500</item>
+				</array>
+                <array>
+					<item>케이크(티라미수/오레오치즈/아메르/브라우니)</item>
+					<item>3000</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>08:00:00</item>
+				<item>19:00:00</item>
+			</array>
+			<array name="fri">
+				<item>08:00:00</item>
+				<item>19:00:00</item>
+			</array>
+			<array name="sat">
+				<item>09:30:00</item>
+				<item>17:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.466369</item>
+			<item>126.953287</item>
+		</coordinate>
+		<string name="location">언어교육원(137-1동) 1층</string>
+		<string name="name">cafe FANCO</string>
+		<string name="phone">02-880-5552</string>
+		<string name="note">아이스음료 +500원, 휘핑추가 +500원, 시럽 +200원</string>
+		<string name="wifilist">FANCO wifi, SNUWireless, SNUU+Zone</string>
+		<string name="dclist">개인텀블러 100원 할인</string>
+		<string name="etcnote">노트북 2대 사용 가능, 단체주문 예약 가능</string>
+	</cafe>
+	<cafe>
+		<index value="3"></index>
+		<section>6</section>
+		<consent>false</consent>
+		<wifi>false</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>원두커피</item>
+					<item>1300</item>
+				</array>
+                <array>
+					<item>핫초코</item>
+					<item>1300</item>
+				</array>
+                <array>
+					<item>에스프레소</item>
+					<item>1300</item>
+				</array>
+                <array>
+					<item>아메리카노</item>
+					<item>1500</item>
+				</array>
+                <array>
+					<item>카페라떼</item>
+					<item>1800</item>
+				</array>
+                <array>
+					<item>카라멜라떼</item>
+					<item>2000</item>
+				</array>
+                <array>
+					<item>바닐라라떼</item>
+					<item>2000</item>
+				</array>
+                <array>
+					<item>카푸치노</item>
+					<item>1800</item>
+				</array>
+                <array>
+					<item>카페모카</item>
+					<item>2000</item>
+				</array>
+                <array>
+					<item>카라멜모카</item>
+					<item>2300</item>
+				</array>
+                <array>
+					<item>카라멜마끼아또</item>
+					<item>2300</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>홍차라떼</item>
+					<item>2300</item>
+				</array>
+                <array>
+					<item>그린티라떼</item>
+					<item>2300</item>
+				</array>
+                <array>
+					<item>스무디(딸기/망고/키위/키위망고)</item>
+					<item>1500</item>
+				</array>
+                <array>
+					<item>생과일주스(딸기/바나나)</item>
+					<item>2000</item>
+				</array>
+                <array>
+					<item>라씨주스(딸기/복숭아)</item>
+					<item>2000</item>
+				</array>
+                <array>
+					<item>오렌지칵테일주스</item>
+					<item>1500</item>
+				</array>
+                <array>
+					<item>오렌지주스</item>
+					<item>800</item>
+				</array>
+                <array>
+					<item>유자차/녹차/율무차</item>
+					<item>500</item>
+				</array>
+                <array>
+					<item>밀크쉐이크</item>
+					<item>1500</item>
+				</array>
+                <array>
+					<item>시리얼쉐이크(딸기/망고/키위/초코)</item>
+					<item>2500</item>
+				</array>
+                <array>
+					<item>아이스티</item>
+					<item>600</item>
+				</array>
+                <array>
+					<item>곡물쉐이크</item>
+					<item>2500</item>
+				</array>
+                <array>
+					<item>곡물라떼</item>
+					<item>2300</item>
+				</array>
+				<array>
+					<item>고구마라떼</item>
+					<item>2300</item>
+				</array>
+                <array>
+					<item>요거트스무디(키위/망고/딸기/키위망고)</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>블루베리밀크스무디</item>
+					<item>2000</item>
+				</array>
+                <array>
+					<item>초코프리간떼</item>
+					<item>2500</item>
+				</array>
+                <array>
+					<item>석류에이드</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>레몬에이드</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>홍시퓨레주스</item>
+					<item>2500</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>웰빙샌드위치</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>샌드위치</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>추가샌드위치</item>
+					<item>1300</item>
+				</array>
+				<array>
+					<item>야채샌드위치</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>머핀토스트</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>치즈버거</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>리코버거</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>치즈핫도그</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>빅치즈핫도그</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>야채핫도그</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>미니버거</item>
+					<item>2000</item>
+				</array>
+                <array>
+					<item>4색샌드</item>
+					<item>2500</item>
+				</array>
+                <array>
+					<item>치킨샌드</item>
+					<item>2500</item>
+				</array>
+                <array>
+					<item>참치치킨라운지볼</item>
+					<item>2700</item>
+				</array>
+                <array>
+					<item>라운지볼(고구마/감자/칠리/단호박/호박고구마/칠리감자)</item>
+					<item>1500</item>
+				</array>
+                <array>
+					<item>치킨라운지볼(고구마/감자/칠리/단호박/호박고구마/칠리감자)</item>
+					<item>2200</item>
+				</array>
+                <array>
+					<item>치즈만두볼</item>
+					<item>1500</item>
+				</array>
+                <array>
+					<item>더블만두볼</item>
+					<item>2000</item>
+				</array>
+                <array>
+					<item>참치라운지볼</item>
+					<item>2000</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>07:30:00</item>
+				<item>19:00:00</item>
+			</array>
+			<array name="fri">
+				<item>07:30:00</item>
+				<item>19:00:00</item>
+			</array>
+			<array name="sat">
+				<item>07:30:00</item>
+				<item>15:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.459316999999999</item>
+			<item>126.950637</item>
+		</coordinate>
+		<string name="location">학생회관(63동) 2층</string>
+		<string name="name">학관 라운지</string>
+		<string name="phone"></string>
+		<string name="note">아이스음료 +100원-500원, 사이즈업 +500원, 헤이즐넛시럽 +200원</string>
+		<string name="wifilist"></string>
+		<string name="dclist"></string>
+		<string name="etcnote"></string>
+	</cafe>
+	<cafe>
+		<index value="4"></index>
+		<section>6</section>
+		<consent>true</consent>
+		<wifi>true</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>문큐커피</item>
+					<item>1500</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>홍차</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>허브티(라벤더/레몬그라스/루이보스/로즈마리)</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>허브티(캐모마일/자스민)</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>핫초코</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>그린티라떼</item>
+					<item>2000</item>
+				</array>
+                <array>
+					<item>유자차</item>
+					<item>2000</item>
+				</array>
+                <array>
+					<item>주스(오렌지/석류)</item>
+					<item>2000</item>
+				</array>
+                <array>
+					<item>장미꽃차</item>
+					<item>2000</item>
+				</array>
+                <array>
+					<item>장미홍차</item>
+					<item>2500</item>
+				</array>
+                <array>
+					<item>국화차 블렌디드</item>
+					<item>2500</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>허니브레드</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>유자브레드</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>갈릭브레드</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>토스트</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>오색경단(메론/포도/딸기/오렌지/바나나)</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>이색경단(메론/포도/딸기/오렌지/바나나 중 택2)</item>
+					<item>500</item>
+				</array>
+				<array>
+					<item>요거트+잼+시리얼</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>요거트+꿀</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>치즈케이크</item>
+					<item>3000</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>12:00:00</item>
+				<item>18:00:00</item>
+			</array>
+			<array name="fri">
+				<item>12:00:00</item>
+				<item>18:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.459316999999999</item>
+			<item>126.950637</item>
+		</coordinate>
+		<string name="location">학생회관(63동) 437호</string>
+		<string name="name">문화인큐베이터</string>
+		<string name="phone"></string>
+		<string name="note">아이스음료 +0원-500원</string>
+		<string name="wifilist">iptime, ollehWiFi, SNUU+Zone</string>
+		<string name="dclist"></string>
+		<string name="etcnote">카드결제 불가</string>
+	</cafe>
+	<cafe>
+		<index value="5"></index>
+		<section>8</section>
+		<consent>false</consent>
+		<wifi>true</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>LAB커피</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>에스프레소</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>아메리카노</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>카푸치노</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>2700</item>
+				</array>
+				<array>
+					<item>카라멜마끼아또</item>
+					<item>2700</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>허브티(잉글리시브렉퍼스트/얼그레이/카모마일/페퍼민트)</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>스무디(그린티/블루베리/레몬)</item>
+					<item>2800</item>
+				</array>
+				<array>
+					<item>그린티라떼</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>로얄밀크티</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>블루베리라떼</item>
+					<item>2500</item>
+				</array>
+                <array>
+					<item>핫초코</item>
+					<item>2500</item>
+				</array>
+                <array>
+					<item>민트초코라떼</item>
+					<item>2500</item>
+				</array>
+                <array>
+					<item>곡물라떼</item>
+					<item>2500</item>
+				</array>
+                <array>
+					<item>홍차</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>그린티</item>
+					<item>2000</item>
+				</array>
+                <array>
+					<item>레몬티</item>
+					<item>2000</item>
+				</array>
+                <array>
+					<item>생과일주스(오렌지/바나나/파인애플/키위/계절과일)</item>
+					<item>2500</item>
+				</array>
+                <array>
+					<item>생과일주스(키위파인애플/계절과일)</item>
+					<item>3000</item>
+				</array>
+                <array>
+					<item>초코라떼</item>
+					<item>2500</item>
+				</array>
+                <array>
+					<item>주스(귤)</item>
+					<item>1500</item>
+				</array>
+			</array>
+			<array name="side">
+            
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>08:00:00</item>
+				<item>21:00:00</item>
+			</array>
+			<array name="fri">
+				<item>08:00:00</item>
+				<item>21:00:00</item>
+			</array>
+			<array name="sat">
+				<item>08:00:00</item>
+				<item>19:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.455795999999999</item>
+			<item>126.94991</item>
+		</coordinate>
+		<string name="location">해동학술관(32-1동) 1층</string>
+		<string name="name">the LAB</string>
+		<string name="phone">02-888-8288</string>
+		<string name="note">아이스음료 +300원, 시럽(바닐라/카라멜/민트/라즈베리) +500원</string>
+		<string name="wifilist">SNUU+Zone</string>
+		<string name="dclist"></string>
+		<string name="etcnote">테라스 좌석 있음</string>
+	</cafe>
+	<cafe>
+		<index value="6"></index>
+		<section>1</section>
+		<consent>false</consent>
+		<wifi>false</wifi>
+		<seat>false</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>에스프레소</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>아메리카노</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>카푸치노</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>2300</item>
+				</array>
+				<array>
+					<item>카라멜마끼아또</item>
+					<item>2300</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>핫초코</item>
+					<item>2300</item>
+				</array>
+				<array>
+					<item>녹차라떼</item>
+					<item>2300</item>
+				</array>
+				<array>
+					<item>유자차</item>
+					<item>1400</item>
+				</array>
+				<array>
+					<item>녹차/홍차</item>
+					<item>500</item>
+				</array>
+				<array>
+					<item>레몬티</item>
+					<item>2200</item>
+				</array>
+				<array>
+					<item>아이스티</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>아이스녹차라떼</item>
+					<item>2700</item>
+				</array>
+				<array>
+					<item>아이스초코</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>버블티</item>
+					<item>2800</item>
+				</array>
+				<array>
+					<item>과일주스</item>
+					<item></item>
+				</array>
+			</array>
+			<array name="side">
+			    <array>
+					<item>와플(+토핑1)</item>
+					<item>800(1000)</item>
+				</array>
+				<array>
+					<item>토핑2(+토핑3)</item>
+					<item>1100(1200)</item>
+				</array>
+				<array>
+					<item>젤라또 와플</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>젤라또(싱글)</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>젤라또(미들)</item>
+					<item>6500</item>
+				</array>
+				<array>
+					<item>씨리얼밀크</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>딸기/키위 에이드</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>커피블라스트</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>블라스트(딸기/망고)</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>미니허니브레드</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>토스트</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>햄치즈토스트</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>땅콩바나나토스트</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>샌드위치</item>
+					<item>2000</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>08:30:00</item>
+				<item>19:00:00</item>
+			</array>
+			<array name="fri">
+				<item>08:30:00</item>
+				<item>19:00:00</item>
+			</array>
+			<array name="sat">
+				<item>09:00:00</item>
+				<item>15:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.464954922295291</item>
+			<item>126.9517529010773</item>
+		</coordinate>
+		<string name="location">동원관(113동) 1층</string>
+		<string name="name">느티나무</string>
+		<string name="phone"></string>
+		<string name="note">아이스음료 +200-300원, 샷 +500원</string>
+		<string name="wifilist"></string>
+		<string name="dclist"></string>
+		<string name="etcnote"></string>
+	</cafe>
+	<cafe>
+		<index value="7"></index>
+		<section>3</section>
+		<consent>true</consent>
+		<wifi>true</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>은향(세작) 녹차</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>연향(죽로) 녹차</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>순향(황차) 녹차</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>자스민차</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>설향(말차)</item>
+					<item>4500</item>
+				</array>
+				<array>
+					<item>솔바람차</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>오미자차</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>매실차</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>쌍화탕</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>국화차</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>계피차</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>모과차</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>대추탕</item>
+					<item>2500</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>떡(약식/경단/콩떡)</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>송화</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>흑임자</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>녹두녹말</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>오미자</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>콩</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>청태</item>
+					<item>1500</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>10:30:00</item>
+				<item>18:30:00</item>
+			</array>
+			<array name="fri">
+				<item>10:30:00</item>
+				<item>18:30:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.463507230572652</item>
+			<item>126.94958567619319</item>
+		</coordinate>
+		<string name="location">두레문예관(67동) 1층</string>
+		<string name="name">다향만당</string>
+		<string name="phone">02-880-6244</string>
+		<string name="note"></string>
+		<string name="wifilist"></string>
+		<string name="dclist"></string>
+		<string name="etcnote">매학기 2회 다도특강 실시, 각종 다기 및 명차 판매 중</string>
+	</cafe>
+	<cafe>
+		<index value="8"></index>
+		<section>1</section>
+		<consent>false</consent>
+		<wifi>true</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>아메리카노</item>
+                    <item>1500</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>카푸치노</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>카라멜마끼아또</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>화이트초코모카</item>
+					<item>2500</item>
+				</array>
+
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>그린티라떼</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>생과일주스(딸기/키위/바나나)</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>생과일주스(딸기바나나/키위바나나)</item>
+					<item>2800</item>
+				</array>
+				<array>
+					<item>핫초코</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>우유</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>아이스티</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>녹차/홍차</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>허브티</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>유자차</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>페리에(레몬/라임)</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>로리나(핑크레몬/레몬/오렌지)</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>어니스트(크랜베리/오렌지)</item>
+					<item>3500</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>피자</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>샌드위치</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>햄버거</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>파스타 그라탕</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>머핀(치즈/초코/아몬드)</item>
+					<item>1000</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>08:30:00</item>
+				<item>19:00:00</item>
+			</array>
+			<array name="fri">
+				<item>08:30:00</item>
+				<item>19:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.464388999999997</item>
+			<item>126.953872</item>
+		</coordinate>
+		<string name="location">220동 지하 1층 식당 안</string>
+		<string name="name">DELI</string>
+		<string name="phone"></string>
+		<string name="note">아이스음료 +300원, 시럽/샷 +500원</string>
+		<string name="wifilist"></string>
+		<string name="dclist"></string>
+		<string name="etcnote"></string>
+	</cafe>
+	<cafe>
+		<index value="9"></index>
+		<section>1</section>
+		<consent>true</consent>
+		<wifi>true</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>에스프레소</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>아메리카노</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>카푸치노</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>바닐라라떼</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>카라멜 마끼야또</item>
+					<item>2500</item>
+				</array>
+			    <array>
+					<item>아포가또</item>
+					<item>2500</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+			    <array>
+					<item>녹차라떼</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>홍차라떼</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>유자차</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>핫초코</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>스팀밀크</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>딸기/키위 에이드</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>토마토/키위 주스</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>아이스티/허브차</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>스무디(블루베리/풋사과/망고)</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>딸기/바나나 주스</item>
+					<item>2500</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>조각케익</item>
+					<item>300</item>
+				</array>
+				<array>
+					<item>브라우니</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>브라우니아이스크림</item>
+					<item>3800</item>
+				</array>
+				<array>
+					<item>스콘</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>머핀</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>쿠키</item>
+					<item>900</item>
+				</array>
+				<array>
+					<item>베이글크림치즈</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>베이글샌드위치</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>샌드위치</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>허니버터브레드</item>
+					<item>4000</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>08:00:00</item>
+				<item>21:00:00</item>
+			</array>
+			<array name="fri">
+				<item>08:00:00</item>
+				<item>21:00:00</item>
+			</array>
+			<array name="sat">
+				<item>08:00:00</item>
+				<item>17:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.462856000000002</item>
+			<item>126.95314</item>
+		</coordinate>
+		<string name="location">음악대학(54동)</string>
+		<string name="name">느티나무</string>
+		<string name="phone"></string>
+		<string name="note">아이스음료 +200-500원, 샷/시럽/크림 +500원</string>
+		<string name="wifilist">Free U+, T wifi, Olleh, SNUWireless</string>
+		<string name="dclist"></string>
+		<string name="etcnote">농협 ATM, 듣고 싶은 음악을 가져오면 틀어준다</string>
+	</cafe>
+	<cafe>
+		<index value="10"></index>
+		<section>4</section>
+		<consent>false</consent>
+		<wifi>true</wifi>
+		<seat>false</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>아메리카노</item>
+                    <item>1700</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>2200</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>카라멜라떼</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>카푸치노</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>카라멜마끼아또</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>에스프레소</item>
+					<item>1000</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>핫초코</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>그린티라떼</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>홍차라떼</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>녹차/홍차</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>우유</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>허브티</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>아이스티</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>스무디(딸기/키위)</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>탄산음료</item>
+					<item>1000</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>햄에그샌드위치</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>참치샌드위치</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>게맛살샌드위치</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>에그샌드위치</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>핫도그</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>조각피자</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>소시지</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>주먹밥(참치/김치)</item>
+					<item>1700</item>
+				</array>
+				<array>
+					<item>와플(플레인)</item>
+					<item>1200</item>
+				</array>
+				<array>
+					<item>머핀</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>쿠키</item>
+					<item>1200</item>
+				</array>
+				<array>
+					<item>햄에그샌드위치with아메리카노</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>참치샌드위치with아메리카노</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>게맛살샌드위치with아메리카노</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>에그샌드위치with아메리카노</item>
+					<item>2800</item>
+				</array>
+				<array>
+					<item>핫도그with아메리카노</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>핫도그with카페라떼</item>
+					<item>3500</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>08:00:00</item>
+				<item>20:00:00</item>
+			</array>
+			<array name="fri">
+				<item>08:00:00</item>
+				<item>20:00:00</item>
+			</array>
+			<array name="sat">
+				<item>09:00:00</item>
+				<item>16:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.460878000000001</item>
+			<item>126.953295</item>
+		</coordinate>
+		<string name="location">신양인문학술정보관(4동) 1층</string>
+		<string name="name">인문대 MUG</string>
+		<string name="phone"></string>
+		<string name="note">아이스음료 +500원, 모닝세트 8~13시</string>
+		<string name="wifilist"></string>
+		<string name="dclist"></string>
+		<string name="etcnote">모닝세트 8AM - 1PM</string>
+	</cafe>
+	<cafe>
+		<index value="11"></index>
+		<section>8</section>
+		<consent>true</consent>
+		<wifi>true</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>아메리카노</item>
+                    <item>1700</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>2200</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>카라멜라떼</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>카푸치노</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>카라멜마끼아또</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>에스프레소</item>
+					<item>1000</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>핫초코</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>초코라떼</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>그린티라떼</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>홍차라떼</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>곡물라떼</item>
+					<item>2200</item>
+				</array>
+				<array>
+					<item>녹차/홍차</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>우유</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>허브티(로즈마리/페퍼민트/카모마일)</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>아이스티</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>탄산음료</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>스무디(딸기/키위)</item>
+					<item>2500</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>햄에그샌드위치</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>참치샌드위치</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>게맛살샌드위치</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>스파이시허브치킨샌드위치</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>에그샌드위치</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>핫도그</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>칠리핫도그</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>소시지</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>주먹밥(참치/김치)</item>
+					<item>1700</item>
+				</array>
+				<array>
+					<item>조각피자</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>머핀</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>쿠키</item>
+					<item>1200</item>
+				</array>
+				<array>
+					<item>핫도그with아메리카노</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>핫도그with카페라떼</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>햄에그샌드위치with아메리카노</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>참치샌드위치with아메리카노</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>게맛살샌드위치with아메리카노</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>에그샌드위치with아메리카노</item>
+					<item>2800</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>08:00:00</item>
+				<item>20:30:00</item>
+			</array>
+			<array name="fri">
+				<item>08:00:00</item>
+				<item>20:30:00</item>
+			</array>
+			<array name="sat">
+				<item>09:00:00</item>
+				<item>18:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.455187000000002</item>
+			<item>126.951989</item>
+		</coordinate>
+		<string name="location">공대 신양(44-1동) 1층</string>
+		<string name="name">공대 MUG</string>
+		<string name="phone">02-883-2558</string>
+		<string name="note">아이스음료 +300-500원</string>
+		<string name="wifilist">KT, SNUWireless</string>
+		<string name="dclist"></string>
+		<string name="etcnote">외부테라스 좌석 있음, 모닝세트 8AM-1PM, 핫도그세트 3PM-8PM</string>
+	</cafe>
+	<cafe>
+		<index value="12"></index>
+		<section>3</section>
+		<consent>true</consent>
+		<wifi>true</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>에스프레소</item>
+					<item>2800</item>
+				</array>
+				<array>
+					<item>아메리카노</item>
+					<item>2800</item>
+				</array>
+				<array>
+					<item>카푸치노</item>
+					<item>3600</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>3600</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>4400</item>
+				</array>
+				<array>
+					<item>카라멜마끼아또</item>
+					<item>4300</item>
+				</array>
+				<array>
+					<item>에스프레소마끼아또</item>
+					<item>2800</item>
+				</array>
+				<array>
+					<item>에스프레소콘파나</item>
+					<item>2800</item>
+				</array>
+				<array>
+					<item>카페비엔나</item>
+					<item>3200</item>
+				</array>
+				<array>
+					<item>바닐라 카페라떼</item>
+					<item>4100</item>
+				</array>
+				<array>
+					<item>메이플 카페라떼</item>
+					<item>4100</item>
+				</array>
+				<array>
+					<item>헤이즐넛 카페라떼</item>
+					<item>4100</item>
+				</array>
+				<array>
+					<item>화이트초콜렛카페모카</item>
+					<item>4700</item>
+				</array>
+				<array>
+					<item>민트초콜렛카페모카</item>
+					<item>4700</item>
+				</array>
+				<array>
+					<item>아포가또</item>
+					<item>4200</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>프라푸치노(모카)</item>
+					<item>5100</item>
+				</array>
+				<array>
+					<item>프라푸치노(쿠키앤크림)</item>
+					<item>5200</item>
+				</array>
+				<array>
+					<item>프라푸치노(민트초콜렛/녹차/초콜렛)</item>
+					<item>5300</item>
+				</array>
+				<array>
+					<item>프라푸치노(유자요거)</item>
+					<item>5900</item>
+				</array>
+				<array>
+					<item>계절생과일주스</item>
+					<item>4300</item>
+				</array>
+				<array>
+					<item>아이스티(레몬/복숭아/사과)</item>
+					<item>3600</item>
+				</array>
+				<array>
+					<item>녹차라떼</item>
+					<item>4200</item>
+				</array>
+				<array>
+					<item>아쌈밀크티</item>
+					<item>4300</item>
+				</array>
+				<array>
+					<item>핫초코</item>
+					<item>4000</item>
+				</array>
+				<array>
+					<item>다즐링</item>
+					<item>3600</item>
+				</array>
+				<array>
+					<item>홍차(아쌈/실론우바/얼그레이)</item>
+					<item>3600</item>
+				</array>
+				<array>
+					<item>허브티(레몬글라스/루이보스/페퍼민트/캐모마일)</item>
+					<item>3600</item>
+				</array>
+				<array>
+					<item>꿀유자차</item>
+					<item>4700</item>
+				</array>
+				<array>
+					<item>허니차이티라떼</item>
+					<item>4800</item>
+				</array>
+				<array>
+					<item>허니민트티라떼</item>
+					<item>4800</item>
+				</array>
+				<array>
+					<item>허니블랙퍼스트티라떼</item>
+					<item>4800</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>스콘(플레인/갈릭)</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>에그타르트시즌2</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>호두파이</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>햄에그샌드위치</item>
+					<item>3200</item>
+				</array>
+				<array>
+					<item>BLCT샌드위치</item>
+					<item>4000</item>
+				</array>
+				<array>
+					<item>허브닭가슴살샌드위치</item>
+					<item>5000</item>
+				</array>
+				<array>
+					<item>토스트세트(모닝세트 11시 이전)</item>
+					<item>3600</item>
+				</array>
+				<array>
+					<item>땅콩바나나토스트+아메리카노(11시 이전)</item>
+					<item>3600</item>
+				</array>
+				<array>
+					<item>딸기치즈토스트+아메리카노(11시 이전)</item>
+					<item>3600</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>08:00:00</item>
+				<item>20:00:00</item>
+			</array>
+			<array name="fri">
+				<item>08:00:00</item>
+				<item>20:00:00</item>
+			</array>
+			<array name="sat">
+				<item>08:00:00</item>
+				<item>16:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.462015000000001</item>
+			<item>126.951903</item>
+		</coordinate>
+		<string name="location">법대 도서관(72동) 1층</string>
+		<string name="name">cafe eyagi</string>
+		<string name="phone">02-887-2060</string>
+		<string name="note">아이스음료 +500원, 샷/휘핑/시럽 +500원</string>
+		<string name="wifilist">eyagi wifi, SNUU+Zone</string>
+		<string name="dclist">테이크아웃 20% 할인</string>
+		<string name="etcnote">모닝메뉴 8AM-11AM (땅콩바나나/딸기치즈 토스트 + 아메리카노 3600원)</string>
+	</cafe>
+	<cafe>
+		<index value="13"></index>
+		<section>6</section>
+		<consent>false</consent>
+		<wifi>true</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>드립커피</item>
+					<item>500</item>
+				</array>
+				<array>
+					<item>에스프레소</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>아메리카노</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>카푸치노</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>바닐라라떼</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>카라멜라떼</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>카라멜모카</item>
+					<item>2300</item>
+				</array>
+				<array>
+					<item>카라멜마끼아또</item>
+					<item>2300</item>
+				</array>
+				<array>
+					<item>초콜렛마끼아또</item>
+					<item>2300</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>버블쉐이크(초코/딸기/블루베리)</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>밀크쉐이크</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>요거트스무디(플레인/딸기/키위/베리믹스/망고)</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>녹차라떼</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>레몬에이드</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>자몽에이드</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>리얼다크초콜릿</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>허브티(페퍼민트/로즈마리/루이보스/카모마일)</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>유자차/녹차</item>
+					<item>500</item>
+				</array>
+			</array>
+			<array name="side">
+			    <array>
+					<item>요거트아이스크림</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>초코아이스크림</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>베이글(크림치즈 추가)</item>
+					<item>1000(1500)</item>
+				</array>
+				<array>
+					<item>번/쿠키 등</item>
+					<item>600</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>08:00:00</item>
+				<item>19:30:00</item>
+			</array>
+			<array name="fri">
+				<item>08:00:00</item>
+				<item>19:30:00</item>
+			</array>
+			<array name="sat">
+				<item>08:00:00</item>
+				<item>14:30:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.459215</item>
+			<item>126.95057300000001</item>
+		</coordinate>
+		<string name="location">학생회관(63동) 1층 식당 옆</string>
+		<string name="name">카페 보니또</string>
+		<string name="phone"></string>
+		<string name="note">아이스음료 +300원, 샷/크림/시럽 +500원</string>
+		<string name="wifilist">SNUU+Zone</string>
+		<string name="dclist"></string>
+		<string name="etcnote"></string>
+	</cafe>
+	<cafe>
+		<index value="14"></index>
+		<section>5</section>
+		<consent>true</consent>
+		<wifi>true</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>에스프레소</item>
+					<item>1200</item>
+				</array>
+				<array>
+					<item>아메리카노</item>
+					<item>1700</item>
+				</array>
+				<array>
+					<item>카푸치노</item>
+					<item>2300</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>2300</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>2800</item>
+				</array>
+				<array>
+					<item>바닐라라떼</item>
+					<item>2800</item>
+				</array>
+				<array>
+					<item>토피넛라떼</item>
+					<item>2800</item>
+				</array>
+				<array>
+					<item>카라멜마끼아또</item>
+					<item>2800</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>녹차/홍차</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>우유</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>허브티</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>레몬티</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>유자차</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>율무차</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>아이스티</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>밀크티</item>
+					<item>2300</item>
+				</array>
+				<array>
+					<item>핫초코</item>
+					<item>2300</item>
+				</array>
+				<array>
+					<item>그린티라떼</item>
+					<item>2300</item>
+				</array>
+				<array>
+					<item>레몬에이드</item>
+					<item>2800</item>
+				</array>
+				<array>
+					<item>토마토주스</item>
+					<item>3800</item>
+				</array>
+				<array>
+					<item>바나나주스</item>
+					<item>3800</item>
+				</array>
+				<array>
+					<item>바나나파인애플주스</item>
+					<item>3800</item>
+				</array>
+				<array>
+					<item>요거트쉐이크</item>
+					<item>3300</item>
+				</array>
+				<array>
+					<item>과일요거트쉐이크</item>
+					<item>3800</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>달콤푹신한 팬케이크</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>블루베리/체리/카라멜바나나/초코바나나 콩포트</item>
+					<item>500</item>
+				</array>
+				<array>
+					<item>와플</item>
+					<item>1300</item>
+				</array>
+				<array>
+					<item>프레즐</item>
+					<item>2500</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>07:30:00</item>
+				<item>21:30:00</item>
+			</array>
+			<array name="fri">
+				<item>07:30:00</item>
+				<item>21:30:00</item>
+			</array>
+			<array name="sat">
+				<item>08:00:00</item>
+				<item>16:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.461956999999998</item>
+			<item>126.957509</item>
+		</coordinate>
+		<string name="location">기숙사 901동 1층</string>
+		<string name="name">cafe Gran</string>
+		<string name="phone">02-881-9204</string>
+		<string name="note">아이스음료 +500원, 시럽/샷 +700원</string>
+		<string name="wifilist">T wifi Zone, 전용(Ourhome-028819204)</string>
+		<string name="dclist"></string>
+		<string name="etcnote">외부테라스 있음</string>
+	</cafe>
+	<cafe>
+		<index value="15"></index>
+		<section>7</section>
+		<consent>true</consent>
+		<wifi>true</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>에스프레소</item>
+					<item>1300</item>
+				</array>
+				<array>
+					<item>아메리카노</item>
+					<item>1300</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>카푸치노</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>2300</item>
+				</array>
+				<array>
+					<item>카라멜마끼아또</item>
+					<item>2300</item>
+				</array>
+				<array>
+					<item>카라멜카페라떼</item>
+					<item>2300</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+			    <array>
+					<item>아이스티</item>
+					<item>2300</item>
+				</array>
+				<array>
+					<item>그린티라떼</item>
+					<item>2300</item>
+				</array>
+				<array>
+					<item>핫초코</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>녹차</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>허브티</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>얼그레이</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>요구르트과일쉐이크</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>로하스쉐이크</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>로하스라떼</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>에이드</item>
+					<item>2600</item>
+				</array>
+				<array>
+					<item>유자차/모과차</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>생과일주스</item>
+					<item>2500</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>웰빙참치샌드위치</item>
+					<item>2300</item>
+				</array>
+				<array>
+					<item>크로와상샌드위치</item>
+					<item>2700</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>08:00:00</item>
+				<item>21:00:00</item>
+			</array>
+			<array name="fri">
+				<item>08:00:00</item>
+				<item>21:00:00</item>
+			</array>
+			<array name="sat">
+				<item>09:00:00</item>
+				<item>18:00:00</item>
+			</array>
+			<array name="sun">
+				<item>09:00:00</item>
+				<item>18:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.457478000000002</item>
+			<item>126.948781</item>
+		</coordinate>
+		<string name="location">농생대 200동 지하 1층</string>
+		<string name="name">Belepi</string>
+		<string name="phone">02-880-4578</string>
+		<string name="note">아이스음료 +500원, 사이즈업 +500원</string>
+		<string name="wifilist">KT, SNUWireless</string>
+		<string name="dclist">S-Card 5% 할인</string>
+		<string name="etcnote"></string>
+	</cafe>
+	<cafe>
+		<index value="16"></index>
+		<section>3</section>
+		<consent>true</consent>
+		<wifi>true</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>아메리카노</item>
+					<item>3800</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>4200</item>
+				</array>
+				<array>
+					<item>카푸치노</item>
+					<item>4200</item>
+				</array>
+				<array>
+					<item>아몬드토페라떼</item>
+					<item>4800</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>4700</item>
+				</array>
+				<array>
+					<item>화이트모카</item>
+					<item>5000</item>
+				</array>
+				<array>
+					<item>바닐라라떼</item>
+					<item>4700</item>
+				</array>
+				<array>
+					<item>턱시도</item>
+					<item>5000</item>
+				</array>
+				<array>
+					<item>아이오프너</item>
+					<item>4200</item>
+				</array>
+				<array>
+					<item>길트프리모카</item>
+					<item>5200</item>
+				</array>
+				<array>
+					<item>에스프레소</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>오늘의커피</item>
+					<item>3300</item>
+				</array>
+				<array>
+					<item>카페오레</item>
+					<item>4000</item>
+				</array>
+				<array>
+					<item>카페비엔나</item>
+					<item>4000</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>자바란치</item>
+					<item>5300</item>
+				</array>
+				<array>
+					<item>모카자바란치</item>
+					<item>5800</item>
+				</array>
+				<array>
+					<item>카라멜자바란치</item>
+					<item>5800</item>
+				</array>
+				<array>
+					<item>화이트모카자바란치</item>
+					<item>6200</item>
+				</array>
+				<array>
+					<item>아포가또자바란치</item>
+					<item>6200</item>
+				</array>
+				<array>
+					<item>쿠키앤크림자바란치</item>
+					<item>6000</item>
+				</array>
+				<array>
+					<item>초콜릿베리자바란치</item>
+					<item>6400</item>
+				</array>
+				<array>
+					<item>바닐라크림자바란치</item>
+					<item>5800</item>
+				</array>
+				<array>
+					<item>그린티자바란치</item>
+					<item>6000</item>
+				</array>
+				<array>
+					<item>초콜릿베리바닐라자바란치</item>
+					<item>6400</item>
+				</array>
+				<array>
+					<item>스무디(키위/망고/스트로베리)</item>
+					<item>4800</item>
+				</array>
+				<array>
+					<item>이탈리안소다(패션프룻/스트로베리/블랙베리/라즈베리)</item>
+					<item>4500</item>
+				</array>
+				<array>
+					<item>홍차/녹차/허브티</item>
+					<item>3800</item>
+				</array>
+				<array>
+					<item>그린티라떼</item>
+					<item>4700</item>
+				</array>
+				<array>
+					<item>차이티라떼</item>
+					<item>5200</item>
+				</array>
+				<array>
+					<item>차이티자바란치</item>
+					<item>6400</item>
+				</array>
+				<array>
+					<item>주스(오렌지/포도/홍자몽)</item>
+					<item>4800</item>
+				</array>
+				<array>
+					<item>생과일주스(키위/토마토)</item>
+					<item>5800</item>
+				</array>
+				<array>
+					<item>핫초코</item>
+					<item>4000</item>
+				</array>
+				<array>
+					<item>핫화이트초코</item>
+					<item>4300</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>닭가슴살샌드위치</item>
+					<item>6500</item>
+				</array>
+				<array>
+					<item>바비큐치킨샌드위치</item>
+					<item>6800</item>
+				</array>
+				<array>
+					<item>데리야끼치킨샌드위치</item>
+					<item>7500</item>
+				</array>
+				<array>
+					<item>칠리프랑크샌드위치</item>
+					<item>5800</item>
+				</array>
+				<array>
+					<item>베이글샌드위치</item>
+					<item>5500</item>
+				</array>
+				<array>
+					<item>햄에그샌드위치</item>
+					<item>5800</item>
+				</array>
+				<array>
+					<item>치킨치즈샌드위치</item>
+					<item>6500</item>
+				</array>
+				<array>
+					<item>참치너트샌드위치</item>
+					<item>6500</item>
+				</array>
+				<array>
+					<item>햄치즈샌드위치</item>
+					<item>6200</item>
+				</array>
+				<array>
+					<item>햄크랜베리샌드위치</item>
+					<item>6500</item>
+				</array>
+				<array>
+					<item>양송이수프</item>
+					<item>4500</item>
+				</array>
+				<array>
+					<item>브로콜리수프</item>
+					<item>4500</item>
+				</array>
+				<array>
+					<item>베이글</item>
+					<item>3200</item>
+				</array>
+				<array>
+					<item>머핀</item>
+					<item>3300</item>
+				</array>
+				<array>
+					<item>호두바</item>
+					<item>2800</item>
+				</array>
+				<array>
+					<item>브라우니</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>케익</item>
+					<item>4000-5000</item>
+				</array>
+				<array>
+					<item>카라멜와플</item>
+					<item>4500</item>
+				</array>
+				<array>
+					<item>요거트블루베리와플</item>
+					<item>5000</item>
+				</array>
+				<array>
+					<item>과일와플</item>
+					<item>6000</item>
+				</array>
+				<array>
+					<item>젤라또와플</item>
+					<item>6000</item>
+				</array>
+				<array>
+					<item>아몬드카라멜와플</item>
+					<item>4500</item>
+				</array>
+				<array>
+					<item>더블스프레드와플</item>
+					<item>11000</item>
+				</array>
+				<array>
+					<item>애플스트러들</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>고구마파이</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>캠퍼스세트(Half SW+데일리커피R)</item>
+					<item>4800</item>
+				</array>
+				<array>
+					<item>샌드위치세트1(데일리커피or아메리카노1+SW)</item>
+					<item>8800</item>
+				</array>
+				<array>
+					<item>샌드위치세트2(데일리커피or아메리카노2+SW)</item>
+					<item>11000</item>
+				</array>
+				<array>
+					<item>베이글/머핀+데일리커피or아메리카노</item>
+					<item>5800</item>
+				</array>
+				<array>
+					<item>베이글/머핀with카페라떼or카푸치노</item>
+					<item>6300</item>
+				</array>
+				<array>
+					<item>치즈/햄/에그토스트with데일리커피or아메리카노</item>
+					<item>5800</item>
+				</array>
+				<array>
+					<item>치즈/햄/에그토스트with카페라떼or카푸치노</item>
+					<item>6300</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>07:00:00</item>
+				<item>21:00:00</item>
+			</array>
+			<array name="fri">
+				<item>07:00:00</item>
+				<item>21:00:00</item>
+			</array>
+			<array name="sat">
+				<item>09:00:00</item>
+				<item>18:00:00</item>
+			</array>
+			<array name="sun">
+				<item>09:00:00</item>
+				<item>18:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.462783000000002</item>
+			<item>126.950948</item>
+		</coordinate>
+		<string name="location">사회대 신양(16-1동) 2층</string>
+		<string name="name">JavaCity Coffee</string>
+		<string name="phone">02-871-5282</string>
+		<string name="note">아이스음료 +500원, 사이즈업 +500원</string>
+		<string name="wifilist"></string>
+		<string name="dclist">S-Card 20%, 해피포인트카드5% 할인</string>
+		<string name="etcnote"></string>
+	</cafe>
+	<cafe>
+		<index value="17"></index>
+		<section>4</section>
+		<consent>true</consent>
+		<wifi>true</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>파스쿠찌오리지날드립</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>헤이즐넛카푸치노</item>
+					<item>4500</item>
+				</array>
+				<array>
+					<item>라떼마끼아또</item>
+					<item>4500</item>
+				</array>
+				<array>
+					<item>티라미스모카</item>
+					<item>5000</item>
+				</array>
+				<array>
+					<item>아포가또</item>
+					<item>3800</item>
+				</array>
+				<array>
+					<item>에스프레소(도피오/마끼아또)</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>에스프레소</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>아메리카노</item>
+					<item>3800</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>4000</item>
+				</array>
+				<array>
+					<item>카푸치노</item>
+					<item>4000</item>
+				</array>
+				<array>
+					<item>모카치노</item>
+					<item>4000</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>4500</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>그라니따(모카/카라멜/딸기/홍시)</item>
+					<item>5500</item>
+				</array>
+				<array>
+					<item>아이스티</item>
+					<item>4000</item>
+				</array>
+				<array>
+					<item>요거트젤라또(플레인/딸기/블루베리)</item>
+					<item>5500</item>
+				</array>
+				<array>
+					<item>생과일주스(키위/토마토)</item>
+					<item>6000</item>
+				</array>
+				<array>
+					<item>에이드(레몬/오렌지/자몽)</item>
+					<item>5000</item>
+				</array>
+				<array>
+					<item>쇼콜라따(스트로베리/바나나)</item>
+					<item>4500</item>
+				</array>
+				<array>
+					<item>핫초코</item>
+					<item>4000</item>
+				</array>
+				<array>
+					<item>그린티라떼</item>
+					<item>4500</item>
+				</array>
+				<array>
+					<item>잉글리쉬브렉퍼스트티라떼</item>
+					<item>4500</item>
+				</array>
+				<array>
+					<item>녹차/홍차/허브티</item>
+					<item>4000</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>파니니류</item>
+					<item>4500-</item>
+				</array>
+				<array>
+					<item>세트류</item>
+					<item>6500-</item>
+				</array>
+				<array>
+					<item>케이크</item>
+					<item>4500-</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>08:00:00</item>
+				<item>22:00:00</item>
+			</array>
+			<array name="fri">
+				<item>08:00:00</item>
+				<item>22:00:00</item>
+			</array>
+			<array name="sat">
+				<item>08:00:00</item>
+				<item>22:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.459173</item>
+			<item>126.95513800000001</item>
+		</coordinate>
+		<string name="location">노천강당 버스정류장 근처</string>
+		<string name="name">PASCUCCI</string>
+		<string name="phone">02-882-8497</string>
+		<string name="note">아이스음료 +500-700원, 사이즈업 +500원</string>
+		<string name="wifilist">SNUU+ZONE</string>
+		<string name="dclist">S-Card 20% 할인, 각종신용카드 할인</string>
+		<string name="etcnote">외부테라스 있음</string>
+	</cafe>
+	<cafe>
+		<index value="18"></index>
+		<section>7</section>
+		<consent>true</consent>
+		<wifi>true</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>아메리카노</item>
+					<item>3800</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>4100</item>
+				</array>
+				<array>
+					<item>카푸치노</item>
+					<item>4100</item>
+				</array>
+				<array>
+					<item>바닐라라떼</item>
+					<item>4600</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>4600</item>
+				</array>
+				<array>
+					<item>카라멜모카</item>
+					<item>5100</item>
+				</array>
+				<array>
+					<item>화이트모카</item>
+					<item>5100</item>
+				</array>
+				<array>
+					<item>카라멜마끼아또</item>
+					<item>5100</item>
+				</array>
+				<array>
+					<item>헤이즐넛카라멜모카</item>
+					<item>5600</item>
+				</array>
+				<array>
+					<item>쿠키앤크림라떼</item>
+					<item>5500</item>
+				</array>
+				<array>
+					<item>에스프레소</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>에스프레소(콘파냐/마끼아또)</item>
+					<item>3200</item>
+				</array>
+				<array>
+					<item>오늘의커피</item>
+					<item>3700</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>프라페(초코크림/그린티/유자/망고)</item>
+					<item>5200</item>
+				</array>
+				<array>
+					<item>요거프라페</item>
+					<item>5800</item>
+				</array>
+				<array>
+					<item>프라페(스트로베리/홍삼)</item>
+					<item>5500</item>
+				</array>
+				<array>
+					<item>에스프레소프라페</item>
+					<item>4800</item>
+				</array>
+				<array>
+					<item>프라페(카라멜/모카칩)</item>
+					<item>5300</item>
+				</array>
+				<array>
+					<item>얼그레이라떼/마샬라차이라떼</item>
+					<item>5300</item>
+				</array>
+				<array>
+					<item>그린티라떼</item>
+					<item>4800</item>
+				</array>
+				<array>
+					<item>허브티(카모마일/얼그레이크림/오렌지홍차)</item>
+					<item>4500</item>
+				</array>
+				<array>
+					<item>홍차라떼</item>
+					<item>5300</item>
+				</array>
+				<array>
+					<item>홍삼라떼</item>
+					<item>5000</item>
+				</array>
+				<array>
+					<item>핫초코</item>
+					<item>4500</item>
+				</array>
+				<array>
+					<item>녹차/아이스티</item>
+					<item>4000</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>후레쉬후르츠요거트</item>
+					<item>4500</item>
+				</array>
+				<array>
+					<item>플레인요거트아이스크림</item>
+					<item>4800</item>
+				</array>
+				<array>
+					<item>에스프레소요거트아이스크림</item>
+					<item>5300</item>
+				</array>
+				<array>
+					<item>아포가또(아몬드롤링/카라멜넛)</item>
+					<item>6000</item>
+				</array>
+				<array>
+					<item>바닐라아포가또</item>
+					<item>5500</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>08:30:00</item>
+				<item>22:00:00</item>
+			</array>
+			<array name="fri">
+				<item>08:30:00</item>
+				<item>22:00:00</item>
+			</array>
+			<array name="sat">
+				<item>09:00:00</item>
+				<item>22:00:00</item>
+			</array>
+			<array name="sun">
+				<item>09:00:00</item>
+				<item>22:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.460040999999997</item>
+			<item>126.94852400000001</item>
+		</coordinate>
+		<string name="location">501동 1층</string>
+		<string name="name">A Twosome Place</string>
+		<string name="phone">02-884-2385</string>
+		<string name="note">아이스음료 +0원-500원, 사이즈업 +500원, 샷/시럽/휘핑 +500원</string>
+		<string name="wifilist">NESPOT, SNUWireless, SNUU+Zone, T wifi zone</string>
+		<string name="dclist">S-Card 20% 할인, SKT 10% 할인, CJ ONE 5% 적립</string>
+		<string name="etcnote">회의실 및 외부테라스 있음, 선물포장 가능</string>
+	</cafe>
+	<cafe>
+		<index value="19"></index>
+		<section>2</section>
+		<consent>false</consent>
+		<wifi>false</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>아메리카노</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>에스프레소</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>3000</item>
+				</array>
+				<array>
+					<item>카푸치노</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>카라멜마끼아또</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>카라멜프라푸치노</item>
+					<item>3500</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>유자차</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>핫초코</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>우유</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>생과일주스(오렌지/토마토/키위/딸기/키위바나나/키위사과)</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>레몬에이드</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>홍자몽주스</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>복숭아아이스티</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>쉐이크(밀크/모카/초코/딸기)</item>
+					<item>3500</item>
+				</array>
+				<array>
+					<item>세작녹차</item>
+					<item>3500</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>쿠키</item>
+					<item>800</item>
+				</array>
+				<array>
+					<item>머핀</item>
+					<item>700</item>
+				</array>
+				<array>
+					<item>마드레느</item>
+					<item>300</item>
+				</array>
+				<array>
+					<item>생크림 소보로</item>
+					<item>1200</item>
+				</array>
+				<array>
+					<item>브라우니</item>
+					<item>1200</item>
+				</array>
+				<array>
+					<item>치즈케이크</item>
+					<item>4000</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>08:00:00</item>
+				<item>19:00:00</item>
+			</array>
+			<array name="fri">
+				<item>08:00:00</item>
+				<item>19:00:00</item>
+			</array>
+			<array name="sat">
+				<item>10:00:00</item>
+				<item>19:00:00</item>
+			</array>
+			<array name="sun">
+				<item>10:00:00</item>
+				<item>19:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.466628</item>
+			<item>126.949457</item>
+		</coordinate>
+		<string name="location">MoArt(151동) 지하</string>
+		<string name="name">MoArt Coffee</string>
+		<string name="phone"></string>
+		<string name="note">아이스음료 +500원</string>
+		<string name="wifilist"></string>
+		<string name="dclist"></string>
+		<string name="etcnote">외부테라스 있음, Morning Special 평일 8AM-10AM</string>
+	</cafe>
+	<cafe>
+		<index value="20"></index>
+		<section>6</section>
+		<consent>true</consent>
+		<wifi>true</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>아메리카노</item>
+					<item>3300 (1500)</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>3800 (2000)</item>
+				</array>
+				<array>
+					<item>카푸치노</item>
+					<item>3800 (2700)</item>
+				</array>
+				<array>
+					<item>카라멜마끼아또</item>
+					<item>4300 (3000)</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>4300 (3000)</item>
+				</array>
+				<array>
+					<item>에스프레소</item>
+					<item>3000 (1500)</item>
+				</array>
+				<array>
+					<item>오늘의커피</item>
+					<item>3000 (1000)</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>스무디(딸기/키위)</item>
+					<item>4500 (3200)</item>
+				</array>
+				<array>
+					<item>요거스무디(블루베리/플레인)</item>
+					<item>4500 (3200)</item>
+				</array>
+				<array>
+					<item>그린티스무디</item>
+					<item>4500 (3200)</item>
+				</array>
+				<array>
+					<item>생과일주스(토마토/오렌지)</item>
+					<item>5000 (3500)</item>
+				</array>
+				<array>
+					<item>팥빙수/녹차빙수</item>
+					<item>6000 (4800)</item>
+				</array>
+				<array>
+					<item>아이스티</item>
+					<item>3000 (1000)</item>
+				</array>
+				<array>
+					<item>페퍼민트/카모마일/얼그레이/다즐링</item>
+					<item>3300 (2300)</item>
+				</array>
+				<array>
+					<item>핫초코</item>
+					<item>3800 (2700)</item>
+				</array>
+				<array>
+					<item>에이드(레몬/그린애플)</item>
+					<item>4000 (2800)</item>
+				</array>
+				<array>
+					<item>그린티라떼</item>
+					<item>4000 (2800)</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>빵/샌드위치/케이크 등</item>
+					<item></item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>08:00:00</item>
+				<item>22:00:00</item>
+			</array>
+			<array name="fri">
+				<item>08:00:00</item>
+				<item>22:00:00</item>
+			</array>
+			<array name="sat">
+				<item>08:00:00</item>
+				<item>22:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.459083</item>
+			<item>126.951919</item>
+		</coordinate>
+		<string name="location">중앙도서관 터널 내 제3열람실 앞</string>
+		<string name="name">Tous les Jours</string>
+		<string name="phone"></string>
+		<string name="note">괄호 안은 S-card할인, 콜라겐/샷/시럽/휘핑 +500원</string>
+		<string name="wifilist"></string>
+		<string name="dclist">S-Card, CJ One Card 할인</string>
+		<string name="etcnote">전자레인지 보유</string>
+	</cafe>
+	<cafe>
+		<index value="21"></index>
+		<section>6</section>
+		<consent>false</consent>
+		<wifi>true</wifi>
+		<seat>true</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>커피</item>
+					<item>500</item>
+				</array>
+				<array>
+					<item>아이스커피</item>
+					<item>600</item>
+				</array>
+				<array>
+					<item>카푸치노</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>커피 속 아이스크림</item>
+					<item>1000</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>유자차</item>
+					<item>500</item>
+				</array>
+				<array>
+					<item>아이스티</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>오렌지주스</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>우유</item>
+					<item>700</item>
+				</array>
+				<array>
+					<item>콜라/사이다</item>
+					<item>700</item>
+				</array>
+				<array>
+					<item>키위/토마토 생과일주스</item>
+					<item>1500</item>
+				</array>
+			</array>
+			<array name="side">
+				<array>
+					<item>토스트</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>치즈토스트</item>
+					<item>1300</item>
+				</array>
+				<array>
+					<item>피자토스트</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>모닝세트</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>후레쉬샐러드</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>후레쉬치킨샐러드</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>수제버거</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>치킨버거</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>샌드위치</item>
+					<item>1200</item>
+				</array>
+				<array>
+					<item>크로와상샌드위치</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>클럽샌드</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>떡볶이</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>치즈떡볶이</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>순대</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>팥빙수</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>컵빙수</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>치킨또띠아</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>불고기또띠아</item>
+					<item>2500</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>08:30:00</item>
+				<item>19:00:00</item>
+			</array>
+			<array name="fri">
+				<item>08:30:00</item>
+				<item>19:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.273443999999998</item>
+			<item>126.57105</item>
+		</coordinate>
+		<string name="location">학생회관(63동) 1층 식당 옆</string>
+		<string name="name">생협 카페</string>
+		<string name="phone"></string>
+		<string name="note"></string>
+		<string name="wifilist"></string>
+		<string name="dclist"></string>
+		<string name="etcnote"></string>
+	</cafe>
+	<cafe>
+		<index value="22"></index>
+		<section>4</section>
+		<consent>false</consent>
+		<wifi>false</wifi>
+		<seat>false</seat>
+		<menu>
+			<array name="coffee">
+				<array>
+					<item>에스프레소</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>아메리카노</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>카페라떼</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>카푸치노</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>카페모카</item>
+					<item>2300</item>
+				</array>
+				<array>
+					<item>카라멜마끼아또</item>
+					<item>2300</item>
+				</array>
+			</array>
+			<array name="non-coffee">
+				<array>
+					<item>녹차/홍차/유자차</item>
+					<item>500</item>
+				</array>
+				<array>
+					<item>아이스티</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>핫초코</item>
+					<item>2300</item>
+				</array>
+				<array>
+					<item>그린티라떼</item>
+					<item>2300</item>
+				</array>
+
+			</array>
+			<array name="side">
+				<array>
+					<item>와플(+토핑1)</item>
+					<item>800(1000)</item>
+				</array>
+				<array>
+					<item>토핑2(+토핑3)</item>
+					<item>1100(1200)</item>
+				</array>
+				<array>
+					<item>토스트</item>
+					<item>1000</item>
+				</array>
+				<array>
+					<item>햄치즈토스트</item>
+					<item>1500</item>
+				</array>
+				<array>
+					<item>허니브레드</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>젤라또 와플</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>젤라또(싱글)</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>허니브레드 앤 젤라또</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>씨리얼밀크</item>
+					<item>1800</item>
+				</array>
+				<array>
+					<item>딸기/키위 에이드</item>
+					<item>2000</item>
+				</array>
+				<array>
+					<item>커피블라스트</item>
+					<item>2500</item>
+				</array>
+				<array>
+					<item>블라스트(딸기/망고)</item>
+					<item>2500</item>
+				</array>
+			</array>
+		</menu>
+		<time>
+			<array name="monthu">
+				<item>09:00:00</item>
+				<item>19:00:00</item>
+			</array>
+			<array name="fri">
+				<item>09:00:00</item>
+				<item>19:00:00</item>
+			</array>
+		</time>
+		<coordinate>
+			<item>37.450233997404332</item>
+			<item>126.9525200128555</item>
+		</coordinate>
+		<string name="location">신공학관(301동) 지하 1층</string>
+		<string name="name">느티나무</string>
+		<string name="phone"></string>
+		<string name="note">아이스음료 +500원</string>
+		<string name="wifilist"></string>
+		<string name="dclist"></string>
+		<string name="etcnote"></string>
+	</cafe>
+</cafedata>
+</resources>

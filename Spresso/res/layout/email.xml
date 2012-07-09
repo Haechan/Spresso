@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:orientation="vertical"
+
+    android:layout_width="fill_parent"
+
+    android:layout_height="fill_parent"
+
+    >
+
+<TextView  
+
+    android:layout_width="fill_parent" 
+
+    android:layout_height="wrap_content" 
+
+    android:text="개발자에게 이메일 보내기"
+
+    />
+
+<TextView  
+
+    android:layout_width="fill_parent" 
+
+    android:layout_height="wrap_content" 
+
+    android:text="이메일 제목:"
+
+    />
+
+<EditText  
+
+    android:id="@+id/email_subject"
+
+    android:layout_width="fill_parent" 
+
+    android:layout_height="wrap_content" 
+
+    android:inputType="textEmailSubject"
+
+    />
+
+<TextView  
+
+    android:layout_width="fill_parent" 
+
+    android:layout_height="wrap_content" 
+
+    android:text="이메일 내용:"
+
+    />
+
+<EditText  
+
+    android:id="@+id/email_text"
+
+    android:layout_width="fill_parent" 
+
+    android:layout_height="wrap_content" 
+    
+    android:inputType="textMultiLine"
+
+    />
+
+<Button  
+
+    android:id="@+id/sendemail_intent"
+
+    android:layout_width="fill_parent" 
+
+    android:layout_height="wrap_content" 
+
+    android:text=" 이메일 보내기  "
+
+    />
+
+</LinearLayout>
